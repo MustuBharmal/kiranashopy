@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "237629142128",
+    "project_id": "kiranashopy-79d19",
+    "storage_bucket": "kiranashopy-79d19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237629142128:android:72d0346290369a827630b5",
+        "android_client_info": {
+          "package_name": "com.kiranashopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237629142128-6408he2egb7mvn48v4o4vvg0k10nd4pi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiranashopy",
+            "certificate_hash": "d32f14007a2fd6662ad6f2355ba0b1b32a793bfa"
+          }
+        },
+        {
+          "client_id": "237629142128-nt5fvqd4vmqmtvu56lej1r6p5nq164v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpPiaN1yS3zHcCgjyT4BOt0z496e0RU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237629142128-nt5fvqd4vmqmtvu56lej1r6p5nq164v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237629142128-gia27aee39elkpke7bmgvnem16bnu132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tecmanic.gogrocer.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237629142128:android:121b7bb82c5516017630b5",
+        "android_client_info": {
+          "package_name": "com.tecmanic.gogrocer.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237629142128-if0uc1c8a3hl1iecau9l2tp24i9ueiin.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tecmanic.gogrocer.user",
+            "certificate_hash": "d32f14007a2fd6662ad6f2355ba0b1b32a793bfa"
+          }
+        },
+        {
+          "client_id": "237629142128-nt5fvqd4vmqmtvu56lej1r6p5nq164v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATpPiaN1yS3zHcCgjyT4BOt0z496e0RU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237629142128-nt5fvqd4vmqmtvu56lej1r6p5nq164v2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237629142128-gia27aee39elkpke7bmgvnem16bnu132.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tecmanic.gogrocer.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
